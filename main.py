@@ -8,4 +8,7 @@ def home():
 
 @app.get("/hello")
 def hello():
-    return {"message": "Hello,Sanghavi"}
+    return {"message": "Hello World"}
+
+
+
